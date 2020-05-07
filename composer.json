@@ -1,0 +1,33 @@
+{
+    "name": "ceefee/yii2-layui",
+    "description": "The Layui extension for the Yii framework",
+    "keywords": ["ceefee", "yii2", "layui"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/ceefee/yii2-layui/issues",
+        "source": "https://github.com/ceefee/yii2-layui"
+    },
+    "authors": [
+        {
+            "name": "CeeFee",
+            "email": "chengfei.net@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.6",
+		"yiisoft/yii2-bootstrap": "~2.0.0",
+        "bower-asset/layui": "~2.5.6"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ceefee\\layui\\": "src"
+        }
+    }
+}
