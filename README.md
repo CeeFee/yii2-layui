@@ -1,4 +1,7 @@
 <p align="center">
+    <a href="https://www.layui.com/" target="_blank" rel="external">
+        <img src="https://sentsin.gitee.io/res/images/layui/layui.png" height="80px">
+    </a>
     <h1 align="center">Layui Extension for Yii 2</h1>
     <br>
 </p>
