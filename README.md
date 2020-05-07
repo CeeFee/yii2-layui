@@ -1,7 +1,4 @@
 <p align="center">
-    <a href="https://www.layui.com" target="_blank" rel="external">
-        Layui
-    </a>
     <h1 align="center">Layui Extension for Yii 2</h1>
     <br>
 </p>
