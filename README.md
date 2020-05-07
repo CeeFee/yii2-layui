@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.layui.com" target="_blank" rel="external">
-        <img src="https://res.layui.com/static/images/layui/logo.png" height="80px">
+        Layui
     </a>
     <h1 align="center">Layui Extension for Yii 2</h1>
     <br>
