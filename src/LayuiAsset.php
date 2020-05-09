@@ -5,7 +5,7 @@ use yii\web\AssetBundle;
 
 class LayuiAsset extends AssetBundle
 {
-    public $sourcePath = '@bower/layui/dist';
+    public $sourcePath = '@vendor/ceefee/yii2-layui/layui/dist';
     public $css = [
         'css/layui.css'
     ];

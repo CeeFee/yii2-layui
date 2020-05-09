@@ -5,7 +5,7 @@ use yii\web\AssetBundle;
 
 class LayuiPluginAsset extends AssetBundle
 {
-    public $sourcePath = '@bower/layui/dist';
+    public $sourcePath = '@vendor/ceefee/yii2-layui/layui/dist';
     public $js = [
         'layui.js',
     ];
