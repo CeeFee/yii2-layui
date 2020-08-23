@@ -1,0 +1,43 @@
+.layui-input-sm,.layui-select-sm,.layui-textarea-sm {
+	display: block;
+    width: 100%;
+    padding-left: 5px;
+    height: 25px;
+    line-height: 1;
+	line-height: 25px\9;
+    border-width: 1px;
+    border-style: solid;
+    background-color: #fff;
+    border-radius: 2px;
+    border-color: #e6e6e6;
+}
+.layui-form-item-sm .layui-input-inline-sm {
+    float: left;
+    width: 100px;
+    margin-right: 5px;
+}
+.layui-input-inline-sm {
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+}
+.layui-form-label-sm {
+    float: left;
+    display: block;
+    padding: 0px 8px;
+    width: 60px;
+    font-weight: 400;
+    /* line-height: 20px; */
+    text-align: right;
+    position: relative;
+}
+.layui-card-header-sm {
+    position: relative;
+    /* height: 42px; */
+    line-height: 28px;
+    padding: 10px 15px;
+    color: #333;
+    font-size: 14px;
+    border-bottom: 1px solid #f6f6f6;
+    border-radius: 2px 2px 0px 0px;
+}

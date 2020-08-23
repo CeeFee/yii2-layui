@@ -7,6 +7,7 @@ class LayuiAsset extends AssetBundle
 {
     public $sourcePath = '@vendor/ceefee/yii2-layui/layui';
     public $css = [
-        'css/layui.css'
+        'css/layui.css',
+        'css/layform_sm.css',
     ];
 }
