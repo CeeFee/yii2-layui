@@ -4,7 +4,10 @@ namespace ceefee\layui;
 class ActiveForm extends \yii\widgets\ActiveForm
 {
     public $fieldClass = 'ceefee\layui\ActiveField';
-    public $options = [];
+    public $options = [
+        'autocomplete' => 'off',
+		'class' => 'layui-form',
+	];
     public $layout = 'default';
     
     public function init()
